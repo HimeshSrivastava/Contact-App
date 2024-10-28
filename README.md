@@ -47,7 +47,7 @@ This is a simple Flask application that provides a REST API for performing CRUD 
 
 ## API Endpoints
 
-**Method	     Endpoint	           Description**
+**Method**	     **Endpoint**	       **Description**
    1. GET	     /api/users	          Get a list of all users
    2. GET	     /api/users/<id>      Get a user by ID
    3. POST	     /api/users	          Create a new user
