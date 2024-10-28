@@ -47,12 +47,12 @@ This is a simple Flask application that provides a REST API for performing CRUD 
 
 ## API Endpoints
 
-   Method	   Endpoint	           Description
-   GET	     /api/users	          Get a list of all users
-   GET	     /api/users/<id>      Get a user by ID
-   POST	     /api/users	          Create a new user
-   PUT	     /api/users/<id>	  Update a user by ID
-   DELETE	 /api/users/<id>	  Delete a user by ID
+**Method	     Endpoint	           Description**
+   1. GET	     /api/users	          Get a list of all users
+   2. GET	     /api/users/<id>      Get a user by ID
+   3. POST	     /api/users	          Create a new user
+   4. PUT	     /api/users/<id>	  Update a user by ID
+   5. DELETE	 /api/users/<id>	  Delete a user by ID
 
 
 ## Testing
